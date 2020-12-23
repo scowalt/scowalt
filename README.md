@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Scott Walters, a developer currently located in the Greater Seattle Area 🌲<img width="13" height="13" alt="United States" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8">. I currently work for [@OfficeDev](https://github.com/OfficeDev) ('19-Present). In the past, I've worked for [@MicrosoftEdge](https://github.com/MicrosoftEdge) ('15-'18) and [@SIGMusic](https://github.com/SIGMusic) ('13-'15).
+I'm Scott Walters, a developer located in the Greater Seattle Area 🌲<img width="13" height="13" alt="United States" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8">. I currently work for [@OfficeDev](https://github.com/OfficeDev) ('19-Present). In the past, I've worked for [@MicrosoftEdge](https://github.com/MicrosoftEdge) ('15-'18) and [@SIGMusic](https://github.com/SIGMusic) ('13-'15).
 
 ### Disclaimer
 

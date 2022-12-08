@@ -6,7 +6,7 @@ I'm Scott Walters, a developer located in the Greater Seattle Area 🌲<img widt
 
  - I built [<img width="13" height="13" src="res/ignite-for-spotify-icon.png" alt="Ignite for Spotify Logo"> Ignite for Spotify](https://ignite-for-spotify.scowalt.com/), a tool which connects the [CustomsForge](https://customsforge.com/) [RockSmith](https://rocksmith.ubisoft.com/rocksmith/en-us/home/) CDLC database with Spotify, and allows users to search the database using their existing Spotify playlists.
  - I've done some work with [@RedScientistLabs](https://github.com/redscientistlabs)' projects, mainly focused around CI and refactoring their main project, [RTCV](https://github.com/redscientistlabs/RTCV)
- - I built the newLEGACYinc [android app](https://play.google.com/store/apps/details?id=com.scowalt.newlegacyincapp&hl=en_US&gl=US) and [chrome extension](https://chrome.google.com/webstore/detail/newlegacyinc/ejmobeklchnhloamlgdaklmcebhfboab?hl=en-US) (no longer in active development)
+ - I built the original newLEGACYinc [android app](https://play.google.com/store/apps/details?id=com.scowalt.newlegacyincapp&hl=en_US&gl=US) and [chrome extension](https://chrome.google.com/webstore/detail/newlegacyinc/ejmobeklchnhloamlgdaklmcebhfboab?hl=en-US) (no longer in active development)
  - I maintain some [Chocolatey packages](https://chocolatey.org/profiles/scowalt)
 
 <!--

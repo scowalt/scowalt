@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Scott Walters, a developer located in the Greater Seattle Area 🌲<img width="13" height="13" alt="United States" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8">. More information about the work related to my employment can be found on my [Linkedin page](https://linkedin.com/in/scowalt).
+I'm Scott Walters, a developer in the New York City 🗽<img width="13" height="13" alt="United States" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8">. More information about the work related to my employment can be found on my [Linkedin page](https://linkedin.com/in/scowalt).
 
 ### Side Projects
 

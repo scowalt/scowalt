@@ -4,18 +4,17 @@
 
 The workflow selects `ci_os: linux`, matching the supported Woodpecker 3.19
 agent setting `WOODPECKER_AGENT_LABELS=ci_os=linux`. Before merging this change,
-the parent must configure and read back that label and actual Linux ARM64
-platform on the current agent, then verify the label and Linux AMD64 platform
-on its replacement. Include no other OS or unsupported CPU; retain native platform
-reporting. This routing label is not a security boundary or hardware attestation.
-The original image index supports both targets, without a matrix or emulation.
-ARM64 rollout guidance below is historical, not native AMD64 proof. Commands,
-pins and status layout stay unchanged; actual AMD64 acceptance is separate.
+the parent must configure and read back that label and the `linux/amd64`
+platform on the only agent, `woodpecker` (x86-64). Include no other OS or
+unsupported CPU; retain native platform reporting. This routing label is not a
+security boundary or hardware attestation. The original image index includes a
+`linux/amd64` manifest, without a matrix or emulation. Commands, pins and status
+layout stay unchanged.
 
 This profile repository's `.woodpecker.yaml` ports the two existing comment-policy
 commands from `.github/workflows/no-comments.yml`, in the same order. It retains
 uv 0.11.32, Python 3.14, and the pinned `.comment-policy/requirements.txt`
-dependencies in a digest-pinned image with Linux ARM64 and AMD64 manifests. Woodpecker's
+dependencies in a digest-pinned image with a `linux/amd64` manifest. Woodpecker's
 standard clone supplies the Git index used by the checker. Local Lefthook checks
 and policy exclusions are unchanged; there is no application build or publishing.
 

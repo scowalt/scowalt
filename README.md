@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Scott, a software engineering leader in New York City 🗽. I build side projects around things I'm passionate about.
+I'm Scott, a developer in New York City 🗽. I build side projects around things I'm passionate about.
 
 For work, see [LinkedIn](https://linkedin.com/in/scowalt) or [Working With Me](https://scowalt.com/working-with-me). For everything else, see [scowalt.com](https://scowalt.com).
 
